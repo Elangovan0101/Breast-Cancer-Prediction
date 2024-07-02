@@ -65,10 +65,9 @@ Accuracy = (TP + TN) / (TP + TN + FP + FN)
 2. Run the Python script to load the data, preprocess it, train the models, and evaluate their performance.
 
 3. Clone the repository:
-    ```sh
+
     git clone [<repository_url>](https://github.com/Elangovan0101/Breast-Cancer-Prediction.git)
-    cd preiction
-    ```
+
 
 ## Conclusion
 
