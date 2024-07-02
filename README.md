@@ -66,8 +66,8 @@ Accuracy = (TP + TN) / (TP + TN + FP + FN)
 
 3. Clone the repository:
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone [<repository_url>](https://github.com/Elangovan0101/Breast-Cancer-Prediction.git)
+    cd preiction
     ```
 
 ## Conclusion
